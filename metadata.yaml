@@ -1,0 +1,45 @@
+_repo: The-gold-thimble-b-A-story-for-little-folks_72229
+_version: 0.0.1
+contributor:
+  engineer:
+    agent_name: Andrew, John
+    birthdate: 1815
+    deathdate: 1875
+    gutenberg_agent_id: '25310'
+    url: http://www.gutenberg.org/2009/agents/25310
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia:
+    - https://en.wikipedia.org/wiki/William_Taylor_Adams
+    - http://www.gutenberg.org/ebooks/author/5655
+description: ''
+gutenberg_issued: '2023-11-26'
+identifiers:
+  gutenberg: '72229'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.hn5f6t&view=1up&seq=9
+pgterms:marc905: 20230713134836optic
+pgterms:marc906: '1862'
+pgterms:marc907: us
+production_note: Bob Taylor, Aaron Adrignola and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aBoston :$bLee and Shepard, $c1862.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The gold thimble : $b A story for little folks'
+url: http://www.gutenberg.org/ebooks/72229
